@@ -10,3 +10,6 @@ function destructivelyPrependDriver() {
 function destructivelyRemoveLastDriver() {
 
 }
+function destructivelyRemoveFirstDriver() {
+
+}
